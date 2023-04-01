@@ -1,0 +1,6 @@
+---------instalar typeScript------
+npm install typescript --dev
+
+
+-----rodar comando-----------
+npm run build
